@@ -6,8 +6,7 @@ Automatically detect and blur faces from live webcam or video input using **YOLO
 
 ## 🎥 Demo
 
-> _[Insert a link to a short demo video or GIF here]_  
-> _(You can upload a `.mp4` directly to GitHub or link an unlisted YouTube video)_
+> _[https://github.com/saikatmaji2006/Real-Time-Face-Blurring-with-YOLOv8-OpenCV/blob/main/Demo/DemoVideoFaceBlur.mp4]_  
 
 ---
 
